@@ -2,6 +2,7 @@
 
 ### ubuntu server 16.04.1 amd64
 
+
 1. install mysql5.7
 
 `sudo apt install mysql-server mysql-client`
