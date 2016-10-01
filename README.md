@@ -6,4 +6,4 @@
 
 - Ubuntu 14.04
 
-- Ubuntu 14.04
+- Ubuntu 16.04
