@@ -5,3 +5,5 @@
 - CentOS 7
 
 - Ubuntu 14.04
+
+- Ubuntu 14.04
