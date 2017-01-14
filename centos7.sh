@@ -6,6 +6,9 @@ sudo yum update -y
 echo '---------- start install mlocate ----------'
 sudo yum install -y mlocate
 
+echo '---------- start install yum-utils ----------'
+sudo yum install -y yum-utils
+
 ####################################
 # Install MySQL
 ####################################
