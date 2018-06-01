@@ -21,5 +21,5 @@ rpm -Uvh https://rpms.remirepo.net/enterprise/remi-release-7.rpm
 ### 4. Install php and php extensions
 
 ```
-yum install -y --enablerepo=remi --enablerepo=remi-php72 php php-opcache php-pecl-apcu php-devel php-mbstring php-mcrypt php-mysqlnd php-phpunit-PHPUnit php-pecl-xdebug php-pecl-xhprof php-pdo php-pear php-fpm php-cli php-xml php-bcmath php-process php-gd php-common php-redis php-memcache php-memcached
+yum install -y --enablerepo=remi --enablerepo=remi-php72 php php-opcache php-pecl-apcu php-devel php-mbstring php-mcrypt php-mysqlnd php-phpunit-PHPUnit php-pecl-xdebug php-pdo php-pear php-fpm php-cli php-xml php-bcmath php-process php-gd php-common php-redis php-memcache php-memcached
 ```
