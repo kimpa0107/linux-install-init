@@ -8,4 +8,4 @@
 
 - [Ubuntu 16.04](./ubuntu1604.md)
 
-- [CentOS-install-php7](./centos-install-php7.md)
+- [CentOS install php7](./centos-install-php7.md)
